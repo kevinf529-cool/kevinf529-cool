@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**kevinf529-cool/kevinf529-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kevin Feracho
 
-Here are some ideas to get you started:
+Business graduate currently pursuing a Master's in Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in financial analysis, data analytics, and building dashboards that turn raw data into useful insights.
+
+## Tools I Work With
+Python  
+Power BI  
+Excel  
+Pandas  
+NumPy  
+
+## Current Focus
+Improving my skills in data analysis, statistical modeling, and business intelligence tools.
+
+## Featured Projects
+Power BI Supermarket Sales Dashboard  
+Gold Market Analysis Using Python

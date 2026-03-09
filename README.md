@@ -12,6 +12,7 @@ Power BI
 Excel  
 Pandas  
 NumPy  
+SQL
 
 ## Current Focus
 Improving my skills in data analysis, statistical modeling, and business intelligence tools.

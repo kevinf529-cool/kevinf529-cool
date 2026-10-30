@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Kevin Feracho
 
 ### Data Analytics | Business Intelligence | Data Science
